@@ -7,5 +7,6 @@
 - 💬 Ask me about anaything retated to Data Analysis and Economics
 - 📫 You can reach me Using my [Youtube Channel](https://www.youtube.com/channel/UCWI0rEQHO4z0lcwGmnhe7gA) 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: From Economist to Data Analyst
+- ⚡ Fun fact: From Economics to Data Analysis
+- Contact me: ouassouhoussin@gmail.com 
 -->
