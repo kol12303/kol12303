@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as Freelancer
+- 🔭 I’m currently working as Freelancer also a PhD student and working on Regional Inequality in Morocco
 - 🌱 I’m currently learning how to do Machine Learning Algorithms in R & Python
 - 👯 I’m looking to collaborate on Forecasting using ML techniques and mesuring Inequality using Big Data Techniques
 - 🤔 I’m looking for help with Enhancing my LinkedIn Profile
