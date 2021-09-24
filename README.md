@@ -10,3 +10,5 @@
 - ⚡ Fun fact: Can Economics Become as Behavioral as it Needs to Be?
 - Contact me: ouassouhoussin@gmail.com 
 -->
+<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="el-houssin-ouassou-1a1102139" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ma.linkedin.com/in/el-houssin-ouassou-1a1102139?trk=profile-badge">EL HOUSSIN OUASSOU</a></div>
+              
